@@ -1,0 +1,23 @@
+.banner{
+	background-image: url(../../images/image.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	color: whitesmoke;}
+
+.banner h1{
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+.banner a{
+	position: relative;
+	left: 200px;
+}
+
+
+img{
+	width: 700px;
+}
